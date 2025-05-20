@@ -1,7 +1,7 @@
 console.log("js-paliedispari");
 
 //L’utente sceglie pari o dispari e inserisce un numero da 1 a 5.
-const SceltaUtente = prompt("Scegli pari o dispari").toLowerCase();
+const SceltaUtente = prompt("Scegli pari o dispari")
 console.log(SceltaUtente);
 const SceltaNum = parseInt(prompt("Inserisci un numero da 1 a 5"));
 
