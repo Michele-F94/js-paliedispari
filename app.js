@@ -37,6 +37,4 @@ function isEven(num) {
 if (isEven(somma) && SceltaUtente === "pari") {
     console.log("Hai vinto!");
 }
-else if (isof(somma) && SceltaUtente === "dispari") {
-    console.log("Hai perso!");
-}
+else  console.log("Hai perso!");
